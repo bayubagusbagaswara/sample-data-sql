@@ -1,0 +1,165 @@
+insert into products (
+        id,
+        name,
+        price,
+        quantity,
+        description,
+        created_by,
+        created_at,
+        status_record,
+        category_id
+    )
+values (
+        'samsung-galaxy-z-flip',
+        'Samsung Galaxy Z Flip',
+        9350000,
+        10,
+        'This is Samsung Galaxy Z Flip product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-s10',
+        'Samsung Galaxy S10',
+        7299000,
+        20,
+        'This is Samsung Galaxy S10 product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-note-8',
+        'Samsung Galaxy Note 8',
+        4450000,
+        25,
+        'This is Samsung Galaxy Note 8 product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a03s',
+        'Samsung Galaxy A03s',
+        1725000,
+        26,
+        'This is Samsung Galaxy A03s product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a32-5g',
+        'Samsung Galaxy A32 5G',
+        3399000,
+        35,
+        'This is Samsung Galaxy A32 5G product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-s21-ultra-5g',
+        'Samsung Galaxy S21 Ultra 5G',
+        14190000,
+        8,
+        'This is Samsung Galaxy S21 Ultra 5G product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a52s-5g',
+        'Samsung Galaxy A52s 5G',
+        5990000,
+        44,
+        'This is Samsung Galaxy A52s 5G product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-s10-plus',
+        'Samsung Galaxy S10 Plus',
+        7550000,
+        35,
+        'This is Samsung Galaxy S10 Plus product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a51',
+        'Samsung Galaxy A52',
+        2999000,
+        38,
+        'This is Samsung Galaxy A52 product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-A7-2018',
+        'Samsung Galaxy A7 2018',
+        2735000,
+        41,
+        'This is Samsung Galaxy A7 2018 product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a30s',
+        'Samsung Galaxy A30s',
+        1950000,
+        50,
+        'This is Samsung Galaxy A30s product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-a31',
+        'Samsung Galaxy A31',
+        2900000,
+        55,
+        'This is Samsung Galaxy A31 product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-s9-plus',
+        'Samsung Galaxy S9 Plus',
+        4998800,
+        45,
+        'This is Samsung Galaxy S9 Plus product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    ),
+    (
+        'samsung-galaxy-note-20-ultra',
+        'Samsung Galaxy Note 20 Ultra',
+        11990000,
+        39,
+        'This is Samsung Galaxy Note 20 Ultra product description',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'mobile-phone'
+    );

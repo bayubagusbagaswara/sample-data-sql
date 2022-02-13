@@ -1,0 +1,176 @@
+insert into products (
+        id,
+        name,
+        price,
+        quantity,
+        description,
+        created_by,
+        created_at,
+        status_record,
+        category_id
+    )
+values (
+        'lenovo-legion-5',
+        'Lenovo Legion 5 Pro',
+        18199000,
+        27,
+        'This is Lenovo Legion 5 Pro product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-t430',
+        'Lenovo ThinkPad T430',
+        6279000,
+        28,
+        'This is Lenovo ThinkPad T430 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-t420',
+        'Lenovo ThinkPad T420',
+        16999000,
+        17,
+        'This is Lenovo ThinkPad T420 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-x260',
+        'Lenovo ThinkPad X260',
+        15400000,
+        24,
+        'This is Lenovo ThinkPad X260 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-x240',
+        'Lenovo ThinkPad X240',
+        15999000,
+        14,
+        'This is Lenovo ThinkPad X240 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-yoga-slim-7',
+        'Lenovo Yoga Slim 7',
+        11549000,
+        30,
+        'This is Lenovo Yoga Slim 7 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-v130',
+        'Lenovo V130 Intel Core i3 4GB',
+        5040000,
+        11,
+        'This is Lenovo V130 Intel Core i3 4GB product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-legion-7i',
+        'Lenovo Legion 7I',
+        19699000,
+        25,
+        'This is Lenovo Legion 7I product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-x1',
+        'Lenovo ThinkPad X1 Carbon',
+        21599000,
+        33,
+        'This is Lenovo ThinkPad X1 Carbon product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-v330',
+        'Lenovo V330',
+        6250000,
+        44,
+        'This is Lenovo V330 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-x270',
+        'Lenovo ThinkPad X270',
+        4550000,
+        44,
+        'This is Lenovo ThinkPad X270 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-thinkpad-t460',
+        'Lenovo ThinkPad T460',
+        7300000,
+        27,
+        'This is Lenovo ThinkPad T460 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-legion-y540',
+        'Lenovo Legion Y540',
+        14499000,
+        28,
+        'This is Lenovo Legion Y540 product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-yoga-slin-7ipro',
+        'Lenovo Yoga Slim 7i Pro',
+        16400000,
+        28,
+        'This is Lenovo Yoga Slim 7i Pro product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    ),
+    (
+        'lenovo-yoga-duet-7i',
+        'Lenovo Yoga Duet 7i',
+        15499000,
+        22,
+        'This is Lenovo Yoga Duet 7i product category',
+        'Current User',
+        current_timestamp,
+        'ACTIVE',
+        'laptop'
+    );
